@@ -17,7 +17,7 @@
 ### `> about`
 
 ```bash
-learning python for 1 week
+Im learning Python right now 1 week in
 ```
 
 <br/>
