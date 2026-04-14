@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Python%20%7C%201%20Week%20Learning-1e3a8a?style=flat-square&labelColor=0a192f&color=1e3a8a&logo=python&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Python-1e3a8a?style=flat-square&labelColor=0a192f&color=1e3a8a&logo=python&logoColor=60A5FA" />
 </p>
 
 <br/>
